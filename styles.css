@@ -1,0 +1,13 @@
+body{
+  font-family: tahoma;
+  text-align: center;
+  margin-top: 50px;
+}
+input{
+  margin: 7px;
+}
+.error{
+  font-size: 12px;
+  color: red;
+  font-weight: bold;
+}
